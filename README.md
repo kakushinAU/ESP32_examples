@@ -163,6 +163,7 @@ void loop() {
 }
 ```
 # libraries
+* https://dl.espressif.com/dl/package_esp32_index.json
 * ESP32Servo
 * Adafruit_GFX
 * Adafruit_SSD1306
@@ -170,3 +171,5 @@ void loop() {
 * WiFi
 * HTTPClient
 * ArduinoJson
+* (Silicon Labs CP210x USB to UART Bridge)
+
