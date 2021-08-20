@@ -6,8 +6,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "MRSAM";
-const char* password = "prairie1971";
+const char* ssid = "MY_SSID";
+const char* password = "MY_PASSWORD";
 String response = "";
 
 //JSON document
